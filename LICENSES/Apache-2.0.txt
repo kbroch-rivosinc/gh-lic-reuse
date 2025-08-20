@@ -1,1 +1,1 @@
-../LICENSE
+../LICENSE-Apache-2.0.txt
